@@ -1,0 +1,1 @@
+This is a project associated with The Odin Project's curriculum. I will be using HTML and CSS to recreate the google homepage. Part of this project is learning how to use the Chrome Devtools to inspect websites. 
